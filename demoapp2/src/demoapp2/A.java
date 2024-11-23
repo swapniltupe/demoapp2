@@ -2,5 +2,5 @@ package demoapp2;
 
 public class A {
 int a;
-int b;
+int b=10;
 }
